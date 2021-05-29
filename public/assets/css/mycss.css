@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;700&display=swap');
+
+.font-1{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+label.error {
+    color: #ff0400;
+    font-size: 12px;
+}
+
+.font-xs{
+    font-size: 12px;
+}
+
+.inputText{
+    min-width: 280px;
+    height: 45px;
+    font-size: 12px;
+}
